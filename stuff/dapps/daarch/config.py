@@ -1,0 +1,4 @@
+config = {
+    'archdir':'daarch'
+
+}
